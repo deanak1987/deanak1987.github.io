@@ -1,17 +1,13 @@
 source "https://rubygems.org"
 
-# GitHub Pages gem (includes Jekyll and compatible plugins)
-gem "github-pages", "~> 228", group: :jekyll_plugins
+# Use the github-pages gem which includes Jekyll and approved plugins
+gem "github-pages", group: :jekyll_plugins
 
-# If you want to use Jekyll native (comment out github-pages above)
-# gem "jekyll", "~> 4.3.2"
-
-# Plugins
+# Plugins are already included in github-pages gem, but you can specify them for clarity
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
-  gem "jekyll-sitemap"
+  gem "jekyll-feed"
+  gem "jekyll-sitemap" 
   gem "jekyll-seo-tag"
-  gem "jekyll-paginate"
 end
 
 # Windows and JRuby does not include zoneinfo files

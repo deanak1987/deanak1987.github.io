@@ -17,9 +17,9 @@ plugins:
   - jekyll-seo-tag
 
 # GitHub Pages specific settings
-repository: yourusername/yourusername.github.io
-github_username: yourusername
-twitter_username: yourtwitter
+repository: deanak1987/deanak1987.github.io
+github_username: deanak1987
+Linkedin_username: dean-kelley-0a7616103
 
 # Exclude from processing
 exclude:
