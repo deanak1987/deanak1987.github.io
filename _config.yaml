@@ -18,8 +18,10 @@ plugins:
 
 # GitHub Pages specific settings
 repository: deanak1987/deanak1987.github.io
-github_username: deanak1987
-linkedin_username: dean-kelley-0a7616103
+# github_username: deanak1987
+# linkedin_username: dean-kelley-0a7616103
+github_username: github
+linkedin_username: LinkedIn
 
 # Exclude from processing
 exclude:
