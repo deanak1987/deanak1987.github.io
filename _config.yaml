@@ -18,10 +18,8 @@ plugins:
 
 # GitHub Pages specific settings
 repository: deanak1987/deanak1987.github.io
-# github_username: deanak1987
-# linkedin_username: dean-kelley-0a7616103
-github_username: github
-linkedin_username: LinkedIn
+github_username: deanak1987
+linkedin_username: dean-kelley-0a7616103
 
 # Exclude from processing
 exclude:
@@ -61,5 +59,7 @@ paginate_path: "/page:num/"
 social:
   - platform: github
     user_url: "https://github.com/deanak1987"
+    display_name: "GitHub"
   - platform: linkedin
     user_url: "https://linkedin.com/in/dean-kelley-0a7616103"
+    display_name: "LinkedIn"
