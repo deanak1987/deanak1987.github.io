@@ -1,0 +1,92 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Dean Kelley
+  given: Dean
+  family: Kelley
+postnominals: ["MS"]
+status:
+  icon: "⚙️"
+role: Sales Engineer & Machine Learning Specialist
+email: mail@deanallenkelley.com
+bio: |
+  Sales Engineer with a Master's degree and a deep technical background in Machine Learning and Data Science. 
+  I bridge the gap between complex technical solutions and business value, with a particular focus on 
+  distributed computing, GxP regulated life sciences, and IoT home automation. 
+  When I'm not optimizing WSI toolkits, I'm documenting my 1987 Toyota Corolla FX16 GTS build for autocross.
+
+affiliations:
+  - name: AST
+    url: https://ast-inc.com/ # Adjusted to the likely URL for AST
+
+links:
+  - icon: at-symbol
+    url: mailto:mail@deanallenkelley.com
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/deanak1987
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/dean-kelley
+
+interests:
+  - Machine Learning & Data Science
+  - Distributed Computing (K3s/Docker)
+  - Home Automation & IoT
+  - Motorsports (Autocross)
+  - GxP Life Sciences
+
+education:
+  - degree: Master of Science in Computer Science/Data Science
+    institution: # Add University Name
+    summary: |
+      Focus on Deep Learning and Distributed Systems. 
+      Capstone project involved processing Whole Slide Images (WSI) for cancer prediction.
+    button:
+      text: View WSI Project
+      url: /project/wsi-toolkit/
+      icon: brands/github
+
+experience:
+  - role: Sales Engineer
+    org: AST
+    start: 2025-07-07
+    summary: |
+      * Directly supported $11.5M in total contract value (TCV) across 7 major capital equipment projects in first six months.
+      * Develop comprehensive technical proposals and compliance matrices for capital equipment sales and SCRs.
+      * Meticulously map customer URS to system capabilities to verify cGMP compliance.
+      * Participate in on-site customer visits and pre-sales technical reviews as a subject matter expert.
+      * Execute creation of Epicor quotes from signed proposals to ensure commercial accuracy.
+      * Develop early-stage system layouts and 3D concept models using Autodesk Inventor for cleanroom integration.
+      
+skills:
+  - name: Technical
+    items:
+      - label: Machine Learning
+        level: 5
+      - label: Data Science
+        level: 5
+      - label: Python
+        level: 4
+      - label: Distributed Systems (K3s/Docker)
+        level: 4
+  - name: Engineering & Sales
+    items:
+      - label: Sales Engineering
+        level: 5
+      - label: Solution Architecture
+        level: 4
+      - label: GxP/Life Sciences
+        level: 4
+      - label: Home Automation (IoT)
+        level: 4
+
+languages:
+  - name: English
+    level: 5
+    label: Native
+  - name: Swedish
+    level: 2
+    label: Learning
+
+awards: []
