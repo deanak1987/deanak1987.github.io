@@ -50,7 +50,7 @@ education:
 experience:
   - role: Sales Engineer
     org: AST
-    start: 2025-07-07 # Approximate start date
+    start: 2025-07-07
     summary: |
       Directly supported $11.5M in total contract value (TCV) across 7 major capital equipment projects in first six months of
 tenure, effectively bridging the gap between customer URS requirements and internal engineering capabilities
@@ -60,10 +60,10 @@ tenure, effectively bridging the gap between customer URS requirements and inter
       Develop early-stage system layouts and 3D concept models using Autodesk Inventor to support project planning and
 visualize cleanroom integration
       
-  - role: # Add previous role if applicable
-    org: # Add previous org
-    summary: |
-      Utilizing background in mechanical engineering and data systems to solve complex technical hurdles.
+#  - role: # Add previous role if applicable
+#    org: # Add previous org
+#    summary: |
+#      Utilizing background in mechanical engineering and data systems to solve complex technical hurdles.
 
 skills:
   - name: Technical
