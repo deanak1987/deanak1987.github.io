@@ -2,99 +2,90 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Alex Johnson
-  given: Alex
-  family: Johnson
-postnominals: []
+  display: Dean
+  given: Dean
+  family: # Add your last name here
+postnominals: ["MS"]
 status:
-  icon: "💻"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
-role: Full-Stack Developer
-email: alex@example.com
+  icon: "⚙️"  # Sales Engineer / Mechanical background
+role: Sales Engineer & Machine Learning Specialist
+email: # Add your email here
 bio: |
-  Full-stack developer with 5+ years of experience building scalable web applications.
-  Passionate about modern JavaScript, cloud architecture, and creating delightful user experiences.
+  Sales Engineer with a Master's degree and a deep technical background in Machine Learning and Data Science. 
+  I bridge the gap between complex technical solutions and business value, with a particular focus on 
+  distributed computing, GxP regulated life sciences, and IoT home automation. 
+  When I'm not optimizing WSI toolkits, I'm documenting my 1987 Toyota Corolla FX16 GTS build for autocross.
 
 affiliations:
-  - name: Tech Corp
-    url: https://techcorp.example.com
+  - name: # Add your current company name here
+    url: # Add company URL
 
 links:
   - icon: at-symbol
-    url: mailto:alex@example.com
+    url: mailto:your-email@example.com
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/alexjohnson
+    url: https://github.com/deanak1987
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnson/
-  - icon: brands/x
-    url: https://x.com/alexjohnson
+    url: https://www.linkedin.com/in/ # Add your LinkedIn slug
 
 interests:
-  - Web Development
-  - Cloud Architecture
-  - Open Source
-  - Developer Experience
+  - Machine Learning & Data Science
+  - Distributed Computing (K3s/Docker)
+  - Home Automation & IoT
+  - Motorsports (Autocross)
+  - GxP Life Sciences
 
 education:
-  - degree: B.S. Computer Science
-    institution: State University
-    start: 2015-09-01
-    end: 2019-05-31
+  - degree: Master of Science in Computer Science/Data Science
+    institution: # Add University Name
     summary: |
-      Focus on software engineering and distributed systems.
-      Senior project on distributed caching systems.
+      Focus on Deep Learning and Distributed Systems. 
+      Capstone project involved processing Whole Slide Images (WSI) for cancer prediction.
     button:
-      text: View Project
-      url: https://github.com/alexjohnson/senior-project
+      text: View WSI Project
+      url: /project/wsi-toolkit/
       icon: brands/github
 
 experience:
-  - role: Senior Software Engineer
-    org: Tech Corp
-    start: 2023-01-01
+  - role: Sales Engineer
+    org: AST
+    start: 2025-07-07 # Approximate start date
     summary: |
-      Lead development of microservices architecture serving 1M+ users.
-      Improved API response time by 40% through optimization.
-      Mentored team of 5 junior developers.
-  - role: Full-Stack Developer
-    org: Startup Inc
-    start: 2021-06-01
-    end: 2022-12-31
+      
+  - role: # Add previous role if applicable
+    org: # Add previous org
     summary: |
-      Built and deployed 3 production applications from scratch.
-      Implemented CI/CD pipeline reducing deployment time by 60%.
-      Led migration from monolith to microservices architecture.
-  - role: Junior Developer
-    org: Web Agency
-    start: 2020-01-01
-    end: 2021-05-31
-    summary: |
-      Developed client websites using React and modern web technologies.
-      Participated in code reviews and agile ceremonies.
+      Utilizing background in mechanical engineering and data systems to solve complex technical hurdles.
 
 skills:
-  - name: Development
+  - name: Technical
     items:
-      - label: TypeScript
+      - label: Machine Learning
         level: 5
-      - label: React
-        level: 5
-      - label: Node.js
+      - label: Data Science
         level: 5
       - label: Python
         level: 4
-  - name: DevOps
+      - label: Distributed Systems (K3s/Docker)
+        level: 4
+  - name: Engineering & Sales
     items:
-      - label: Docker
-        level: 4
-      - label: AWS
-        level: 4
-      - label: CI/CD
+      - label: Sales Engineering
         level: 5
+      - label: Solution Architecture
+        level: 4
+      - label: GxP/Life Sciences
+        level: 4
+      - label: Home Automation (IoT)
+        level: 4
 
 languages:
   - name: English
     level: 5
     label: Native
+  - name: Swedish
+    level: 2
+    label: Learning
 
-awards: []
+awards:[]
