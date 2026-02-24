@@ -2,14 +2,14 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dean
+  display: Dean Kelley
   given: Dean
-  family: # Add your last name here
+  family: Kelley
 postnominals: ["MS"]
 status:
-  icon: "⚙️"  # Sales Engineer / Mechanical background
+  icon: "⚙️"
 role: Sales Engineer & Machine Learning Specialist
-email: # Add your email here
+email: mail@deanallenkelley.com
 bio: |
   Sales Engineer with a Master's degree and a deep technical background in Machine Learning and Data Science. 
   I bridge the gap between complex technical solutions and business value, with a particular focus on 
@@ -17,17 +17,17 @@ bio: |
   When I'm not optimizing WSI toolkits, I'm documenting my 1987 Toyota Corolla FX16 GTS build for autocross.
 
 affiliations:
-  - name: # Add your current company name here
-    url: # Add company URL
+  - name: AST
+    url: https://ast-inc.com/ # Adjusted to the likely URL for AST
 
 links:
   - icon: at-symbol
-    url: mailto:your-email@example.com
+    url: mailto:mail@deanallenkelley.com
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/deanak1987
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/ # Add your LinkedIn slug
+    url: https://www.linkedin.com/in/dean-kelley
 
 interests:
   - Machine Learning & Data Science
@@ -52,12 +52,12 @@ experience:
     org: AST
     start: 2025-07-07
     summary: |
-      Directly supported $11.5M in total contract value (TCV) across 7 major capital equipment projects in first six months of tenure, effectively bridging the gap between customer URS requirements and internal engineering capabilities
-      Develop comprehensive technical proposals and compliance matrices for capital equipment sales and post-sale Scope Change Requests (SCR), meticulously mapping customer User Requirement Specifications (URS) to system capabilities to verify compliance
-      Participate in on-site customer visits and pre-sales technical reviews, serving as a technical resource to address specific inquiries on cGMP compliance and machine capabilities
-      Execute the creation of Epicor quotes from signed proposals and pricing models prior to sales handoff, ensuring commercial accuracy and seamless transition to production
-      Develop early-stage system layouts and 3D concept models using Autodesk Inventor to support project planning and
-visualize cleanroom integration
+      * Directly supported $11.5M in total contract value (TCV) across 7 major capital equipment projects in first six months.
+      * Develop comprehensive technical proposals and compliance matrices for capital equipment sales and SCRs.
+      * Meticulously map customer URS to system capabilities to verify cGMP compliance.
+      * Participate in on-site customer visits and pre-sales technical reviews as a subject matter expert.
+      * Execute creation of Epicor quotes from signed proposals to ensure commercial accuracy.
+      * Develop early-stage system layouts and 3D concept models using Autodesk Inventor for cleanroom integration.
       
 skills:
   - name: Technical
@@ -89,4 +89,4 @@ languages:
     level: 2
     label: Learning
 
-awards:[]
+awards: []
