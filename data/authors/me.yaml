@@ -69,7 +69,7 @@ skills:
       - label: Python
         level: 4
       - label: Distributed Systems (K3s/Docker)
-        level: 4
+        level: 3
   - name: Engineering & Sales
     items:
       - label: Sales Engineering
