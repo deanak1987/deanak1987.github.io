@@ -27,7 +27,7 @@ links:
   - icon: brands/github
     url: https://github.com/deanak1987
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/dean-kelley
+    url: https://www.linkedin.com/in/dean-kelley-0a7616103
 
 interests:
   - Machine Learning & Data Science
@@ -59,7 +59,7 @@ education:
     summary: |
       Focus on machine design and electives inclding: 
         - Internal Combustion Engines
-        -Nuclear Engineering. 
+        - Intro toNuclear Engineering. 
       Capstone project involved designing efficient clearing plates for submillimeter wood chipper for ForestConcept.
     button:
       text: View Submillimeter Wood Chipper Clearing Plate Project
