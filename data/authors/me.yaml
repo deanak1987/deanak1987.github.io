@@ -38,9 +38,11 @@ interests:
 
 education:
   - degree: Master of Science in Computer Science/Data Science
-    institution: # Add University Name
+    institution: The University of Washington, Tacoma
+    start: 2023-09-01
+    end: 2024-04-16
     summary: |
-      Focus on Deep Learning and Distributed Systems. 
+      Focus on Data Science and Machine Learning. 
       Capstone project involved processing Whole Slide Images (WSI) for cancer prediction.
     button:
       text: View WSI Project
