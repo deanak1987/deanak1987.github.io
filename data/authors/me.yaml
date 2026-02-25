@@ -42,7 +42,10 @@ education:
     start: 2023-09-01
     end: 2024-04-16
     summary: |
-      Focus on Data Science and Machine Learning. 
+      Focus on Data Science and Machine Learning wth electives in:
+        - Cryptography
+        - Big Data Analytics
+        - Machine Learning 
       Capstone project involved processing Whole Slide Images (WSI) for cancer prediction.
     button:
       text: View WSI Project
@@ -54,7 +57,9 @@ education:
     start: 2015-09-01
     end: 2017-05-15
     summary: |
-      Focus on Data Science and Machine Learning. 
+      Focus on machine design and electives inclding: 
+        - Internal Combustion Engines
+        -Nuclear Engineering. 
       Capstone project involved designing efficient clearing plates for submillimeter wood chipper for ForestConcept.
     button:
       text: View Submillimeter Wood Chipper Clearing Plate Project
