@@ -48,6 +48,18 @@ education:
       text: View WSI Project
       url: /project/wsi-toolkit/
       icon: brands/github
+    
+    - degree: Bachelor of Science in Mechanical Engineering
+    institution: Washington State University, Bremerton
+    start: 2015-09-01
+    end: 2017-05-15
+    summary: |
+      Focus on Data Science and Machine Learning. 
+      Capstone project involved designing efficient clearing plates for submillimeter wood chipper for ForestConcept.
+    button:
+      text: View Submillimeter Wood Chipper Clearing Plate Project
+      url: 
+      icon: brands/github
 
 experience:
   - role: Sales Engineer
@@ -61,6 +73,14 @@ experience:
       * Execute creation of Epicor quotes from signed proposals to ensure commercial accuracy.
       * Develop early-stage system layouts and 3D concept models using Autodesk Inventor for cleanroom integration.
       
+  - role: Mechanical Engineer
+    org: Bech Engineering
+    start: 2017-06
+    end: 2020-08
+    summary: |
+      * Executed full-cycle product development from concept through implementation, including physics-based modeling, FEA optimization, and detailed CAD design in SolidWorks
+      * Built and tested functional prototypes to validate design concepts, ensuring deliverables met customer specifications and quality standards
+
 skills:
   - name: Technical
     items:
