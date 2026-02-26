@@ -38,8 +38,8 @@ interests:
 education:
   - degree: Master of Science in Computer Science/Data Science
     institution: The University of Washington, Tacoma
-    start: 2023-09
-    end: 2024-03
+    start: 2023-09-01
+    end: 2024-03-01
     summary: |
       Focus on Data Science and Machine Learning wth electives in:
         - Cryptography
