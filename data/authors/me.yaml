@@ -67,12 +67,13 @@ education:
       url: 
       icon: brands/github
 
-  - degrees: Associate of Art
+  - degree: Associate of Art
     institution: Olympic College 
     start: 2010-09-16
     end: 2015-01-01
     summary: |
       Focus on engineering and mathematics coursework for transferring to four-year university. 
+      
       Key courses include: 
         - Statics
         - Dynamics
