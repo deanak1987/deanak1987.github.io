@@ -168,25 +168,21 @@ sections:
   #     spacing:
   #       padding: ["4rem", "0", "4rem", "0"]
 
-
-
-  - block: resume-biography
+  # Certifications & Accomplishments
+  - block: resume-awards
     id: certifications
     content:
-      title: Certifications
-      username: certifications  # Matches 'slug: me' in your me.yaml
-
-    
+      title: "Certifications"
+      # This tells the block to go fetch the 'awards' list from data/authors/me.yaml
+      username: me
     design:
-      style: grid
-      show_levels: false
       background:
         color:
           light: "#f5f5f5"
           dark: "#08080c"
       spacing:
         padding: ["4rem", "0", "4rem", "0"]
-  
+
   # Contact Section
   - block: contact-info
     id: contact
