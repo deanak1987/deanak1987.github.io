@@ -38,10 +38,10 @@ As an Inside Sales Engineer, developed and executed sales strategies for capital
 - **Technical Demonstrations** - Conducted customized product demonstrations highlighting key features and benefits for specific manufacturing applications
 - **Proposal Generation** - Developed automated quoting system integrating technical specifications, pricing, and delivery timelines
 
-### Customer Relationship Management
+<!-- ### Customer Relationship Management
 - **Account Management** - Managed key accounts with regular technical consultations and relationship building activities
 - **Post-Sale Support** - Provided technical training and support to ensure successful equipment integration and operation
-- **Feedback Integration** - Collected and analyzed customer feedback to improve product offerings and sales approaches
+- **Feedback Integration** - Collected and analyzed customer feedback to improve product offerings and sales approaches -->
 
 ## Technologies and Tools
 
