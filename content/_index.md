@@ -130,7 +130,7 @@ sections:
   
   # Experience Timeline
   - block: resume-experience
-    id: experience
+    
     content:
       title: Experience
       date_format: Jan 2006
