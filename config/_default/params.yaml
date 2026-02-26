@@ -23,8 +23,8 @@ hugoblox:
     # Site meta description for search engines and social sharing
     description: "Modern developer portfolio showcasing projects, technical blog posts, and open source contributions. Built with Hugo Blox."
     # Social accounts (used for meta tags like Twitter Cards)
-    social:
-      twitter: "yourusername"              # Twitter/X handle for Twitter Cards (without @)
+    #social:
+      #twitter: "yourusername"              # Twitter/X handle for Twitter Cards (without @)
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
