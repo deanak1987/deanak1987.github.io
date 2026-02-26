@@ -20,12 +20,12 @@ sections:
       show_scroll_indicator: true
       typewriter:
         enable: true
-        prefix: "I build"
+        prefix: "I deliver"
         strings:
-          - "full-stack web apps"
-          - "scalable APIs"
-          - "beautiful UIs"
-          - "open source tools"
+          - "strategic technical insight"
+          - "data-driven decision support"
+          - "specialized mechanical design"
+          - "innovative system architecture"
         type_speed: 70
         delete_speed: 40
         pause_time: 2500
@@ -60,12 +60,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Full-Stack
-          tag: Full-Stack
-        - name: Frontend
-          tag: Frontend
-        - name: Backend
-          tag: Backend
+        - name: Machine Learning
+          tag: Machine Learning
+        - name: Sales Engineering
+          tag: Sales Engineering
+        - name: Mechanical Engineering
+          tag: Mechanical Engineering
       default_button_index: 0
       # Archive link auto-shown if more projects exist than 'count' above
       # archive:
