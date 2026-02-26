@@ -178,8 +178,21 @@ sections:
     design:
       background:
         color:
-          light: "#f5f5f5"
-          dark: "#08080c"
+          light: "#ffffff"
+          dark: "#0d0d12"
+      spacing:
+        padding: ["4rem", "0", "4rem", "0"]
+
+  - block: resume-languages
+    id: languages
+    content:
+      title: Languages
+      username: me
+    design:
+      background:
+        color:
+          light: "#ffffff"
+          dark: "#0d0d12"
       spacing:
         padding: ["4rem", "0", "4rem", "0"]
 
