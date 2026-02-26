@@ -170,21 +170,12 @@ sections:
 
 
 
-  - block: resume-awards
+  - block: resume-biography
     id: certifications
     content:
-      title: "Certifications"
-      subtitle: "Industry Certifications."
-    items:
-      - name: GMP Fundamentals (Refresher) 
-        org: ISPE
-        start: 2025-12-01
-        summary: |
-          Technical training on FDA regulations for Production Process Controls and Packaging/Labeling
-  
-      - name: Engineer-in-Training (EIT) 
-        org: State of Washington
-        start: 2017-03-01
+      title: Certifications
+      username: me  # Matches 'slug: me' in your me.yaml
+
     
     design:
       style: grid
