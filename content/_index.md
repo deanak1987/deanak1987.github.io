@@ -174,7 +174,7 @@ sections:
     id: certifications
     content:
       title: Certifications
-      username: me  # Matches 'slug: me' in your me.yaml
+      username: certifications  # Matches 'slug: me' in your me.yaml
 
     
     design:
