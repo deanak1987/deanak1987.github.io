@@ -142,6 +142,17 @@ skills:
       - label: CAD (SolidWorks, Autodesk Inventor)
         level: 4
 
+certifications: 
+  - name: GMP Fundamentals (Refresher) 
+    org: ISPE
+    start: 2025-12-01
+    summary: |
+      Technical training on FDA regulations for Production Process Controls and Packaging/Labeling
+  
+  - name: Engineer-in-Training (EIT) 
+    org: State of Washington
+    start: 2017-03-01
+
 languages:
   - name: English
     level: 5
