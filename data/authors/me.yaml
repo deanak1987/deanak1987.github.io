@@ -39,8 +39,8 @@ interests:
 education:
   - degree: Master of Science in Computer Science/Data Science
     institution: The University of Washington, Tacoma
-    start: 2023-09-01
-    end: 2024-04-16
+    start: 2023-09
+    end: 2024-03
     summary: |
       Focus on Data Science and Machine Learning wth electives in:
         - Cryptography
@@ -95,17 +95,24 @@ skills:
         level: 5
       - label: Python
         level: 4
+      - label: Rust
+        level: 3
       - label: Distributed Systems (K3s/Docker)
         level: 3
-  - name: Engineering & Sales
+  - name: Sales Engineering
     items:
       - label: Sales Engineering
-        level: 5
+        level: 4
       - label: Solution Architecture
         level: 4
       - label: GxP/Life Sciences
         level: 4
-      - label: Home Automation (IoT)
+
+  - name: Mechanical Engineering
+    items:
+      - label: Mechanical Design
+        level: 4
+      - label: CAD (SolidWorks, Autodesk Inventor)
         level: 4
 
 languages:
