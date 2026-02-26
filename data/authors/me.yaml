@@ -161,6 +161,9 @@ languages:
     level: 5
     label: Native
   - name: Swedish
+    level: 3
+    label: Learning
+  - name: Spanish
     level: 2
     label: Learning
 
