@@ -257,7 +257,7 @@ sections:
       text: |-
         I'm always interested in hearing about new projects and opportunities.
         Whether you're looking to hire, collaborate, or just want to say hi, feel free to reach out!
-      email: mail@DeanAllenKelley.com
+      email: contact@DeanAllenKelley.com
       autolink: true
     design:
       columns: '1'
@@ -273,12 +273,12 @@ sections:
     content:
       title: "Open to Opportunities"
       text: |-
-        I'm currently looking for **senior engineering** or **tech lead** roles.
+        I'm not currently looking for engineering roles, however I am always open to hear about opportunities.
         
         Let's connect and discuss how I can help your team.
       button:
         text: 'Download Resume'
-        url: uploads/resume.pdf
+        url: content/authors/Sales_Engineer_Resume_v3.pdf
         new_tab: true
     design:
       card:
