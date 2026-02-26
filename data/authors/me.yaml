@@ -45,6 +45,7 @@ education:
         - Cryptography
         - Big Data Analytics
         - Machine Learning 
+      
       Capstone project involved processing Whole Slide Images (WSI) for cancer prediction.
     button:
       text: View WSI Project
@@ -59,6 +60,7 @@ education:
       Focus on machine design and electives inclding: 
         - Internal Combustion Engines
         - Intro toNuclear Engineering. 
+      
       Capstone project involved designing efficient clearing plates for submillimeter wood chipper for ForestConcept.
     button:
       text: View Submillimeter Wood Chipper Clearing Plate Project
