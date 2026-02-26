@@ -77,10 +77,10 @@ experience:
       * Execute creation of Epicor quotes from signed proposals to ensure commercial accuracy.
       * Develop early-stage system layouts and 3D concept models using Autodesk Inventor for cleanroom integration.
 
-  - role: PPMLResearcher
+  - role: PPML Researcher
     org: US Privacy Preserving ML Group
-    start: 2022-05
-    end: 2024-03
+    start: 2022-05-01
+    end: 2024-03-16
     summary: |
       * Collaborated with across-functional research group on privacy-preserving techniques for anomaly detection and fraud detection systems
       * Contributed to the development of a federated learning pipeline that achieved AUPRC>0.94 across multiple rounds of the PETs Prize Challenge
@@ -90,8 +90,8 @@ experience:
     
   - role: Mechanical Engineer
     org: Bech Engineering
-    start: 2017-06
-    end: 2020-08
+    start: 2017-06-01
+    end: 2020-08-01
     summary: |
       * Executed full-cycle product development from concept through implementation, including physics-based modeling, FEA optimization, and detailed CAD design in SolidWorks
       * Built and tested functional prototypes to validate design concepts, ensuring deliverables met customer specifications and quality standards
