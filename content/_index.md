@@ -91,7 +91,7 @@ sections:
         - name: Languages
           items:
             - name: Java
-              icon: devicon/Java
+              icon: devicon/java
             - name: Python
               icon: devicon/python
             - name: Rust
@@ -103,13 +103,13 @@ sections:
             - name: SolidWorks
               icon: brand/solidworks
             - name: AutoDesk Inventor
-              icon: brand/utodesk
+              icon: brand/autodesk
         - name: Backend
           items:
             - name: Node.js
               icon: devicon/nodejs
-            - name: PostgreSQL
-              icon: devicon/postgresql
+            - name: SQL
+              icon: devicon/sql
         - name: DevOps
           items:
             - name: Docker
