@@ -32,7 +32,6 @@ links:
 interests:
   - Machine Learning & Data Science
   - Distributed Computing (K3s/Docker)
-  - Home Automation & IoT
   - Motorsports (Autocross)
   - GxP Life Sciences
 
@@ -77,7 +76,18 @@ experience:
       * Participate in on-site customer visits and pre-sales technical reviews as a subject matter expert.
       * Execute creation of Epicor quotes from signed proposals to ensure commercial accuracy.
       * Develop early-stage system layouts and 3D concept models using Autodesk Inventor for cleanroom integration.
-      
+
+  - role: PPMLResearcher
+    org: US Privacy Preserving ML Group
+    start: 2022-05
+    end: 2024-03
+    summary: |
+      * Collaborated with across-functional research group on privacy-preserving techniques for anomaly detection and fraud detection systems
+      * Contributed to the development of a federated learning pipeline that achieved AUPRC>0.94 across multiple rounds of the PETs Prize Challenge
+      * Participated in system performance testing, feature engineering, and model evaluation in secure ML environments
+      * Co-authored a peer-reviewed paper published in Proceedings on Privacy Enhancing Technologies, 2024
+      * Presentedresults to anaudienceoftechnical and non-technical stakeholders, effectively communicating complex privacy-preserving ML concepts and financial fraud detection capabilities
+    
   - role: Mechanical Engineer
     org: Bech Engineering
     start: 2017-06
