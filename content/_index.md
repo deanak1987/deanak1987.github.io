@@ -171,8 +171,8 @@ sections:
 
 
   - block: resume-awards
+    id: certifications
     content:
-      id: certifications
       title: "Certifications"
       subtitle: "Industry Certifications."
     design:
