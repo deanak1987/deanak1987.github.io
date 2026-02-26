@@ -167,6 +167,23 @@ sections:
   #         dark: "#08080c"
   #     spacing:
   #       padding: ["4rem", "0", "4rem", "0"]
+
+
+
+  - block: resume-awards
+    content:
+      id: certifications
+      title: "Certifications"
+      subtitle: "Industry Certifications."
+    design:
+      style: grid
+      show_levels: false
+      background:
+        color:
+          light: "#f5f5f5"
+          dark: "#08080c"
+      spacing:
+        padding: ["4rem", "0", "4rem", "0"]
   
   # Contact Section
   - block: contact-info
