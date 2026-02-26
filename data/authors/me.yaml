@@ -9,7 +9,7 @@ postnominals: ["MS"]
 status:
   icon: "⚙️"
 role: Sales Engineer & Machine Learning Specialist
-email: mail@deanallenkelley.com
+email: contact@deanallenkelley.com
 bio: |
   Sales Engineer with a Master's degree and a deep technical background in Machine Learning and Data Science. 
   I bridge the gap between complex technical solutions and business value, with a particular focus on 
@@ -22,7 +22,7 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:mail@deanallenkelley.com
+    url: mailto: contact@deanallenkelley.com
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/deanak1987
