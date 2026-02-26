@@ -278,7 +278,7 @@ sections:
         Let's connect and discuss how I can help your team.
       button:
         text: 'Download Resume'
-        url: /uploads/Sales_Engineer_Resume_v3.pdf
+        url: /uploads/Sales_Engineer_Resume.pdf
         new_tab: true
     design:
       card:
