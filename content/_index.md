@@ -175,6 +175,17 @@ sections:
     content:
       title: "Certifications"
       subtitle: "Industry Certifications."
+    items:
+      - name: GMP Fundamentals (Refresher) 
+        org: ISPE
+        start: 2025-12-01
+        summary: |
+          Technical training on FDA regulations for Production Process Controls and Packaging/Labeling
+  
+      - name: Engineer-in-Training (EIT) 
+        org: State of Washington
+        start: 2017-03-01
+    
     design:
       style: grid
       show_levels: false
