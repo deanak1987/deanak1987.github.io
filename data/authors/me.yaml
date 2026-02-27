@@ -158,10 +158,10 @@ awards:
 
 languages:
   - name: English
-    level: 5
+    level: 10
     label: Native
   - name: Swedish
-    level: 3
+    level: 4
     label: Learning
   - name: Spanish
     level: 2
