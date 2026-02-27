@@ -189,6 +189,7 @@ sections:
       title: Languages
       username: me
     design:
+      columns: '3'
       background:
         color:
           light: "#ffffff"
