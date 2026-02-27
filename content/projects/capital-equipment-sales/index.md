@@ -48,7 +48,7 @@ As an Inside Sales Engineer, developed and executed sales strategies for capital
 
 - **CRM Platforms** - Salesforce CRM for lead tracking and customer management
 - **Presentation Software** - Advanced PowerPoint and demo software for technical presentations
-- ** CAD Software** - Autodesk Inventor and AutoCAD for building conceptual design models and placing machines in customer cleanrooms
+- **CAD Software** - Autodesk Inventor and AutoCAD for building conceptual design models and placing machines in customer cleanrooms
 
 
 ## Impact
