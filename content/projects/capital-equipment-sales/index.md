@@ -1,7 +1,7 @@
 ---
 title: "Capital Equipment Sales Solutions"
 date: 2025-07-07
-summary: "Comprehensive sales solutions for capital equipment in aseptic manufacturing industry, including technical demonstrations, automated quoting, and customer relationship management"
+summary: "Comprehensive sales solutions for capital equipment in aseptic manufacturing industry, including providing in-depth technical knowledge, the ability to build accurate conceptual CAD models, and effectively communicate to ensure cross-functional collaboration between sales, engineering, and operations."
 tags: 
   - Sales Engineering
   - Capital Equipment
@@ -12,6 +12,7 @@ tech_stack:
   - ERP Integration
   - Data Analysis
   - Presentation Tools
+  - CAD 
 links:
 featured: false
 status: "Ongoing"
@@ -35,7 +36,7 @@ As an Inside Sales Engineer, developed and executed sales strategies for capital
 ## Key Features
 
 ### Sales Process Optimization
-- **Technical Demonstrations** - Conducted customized product demonstrations highlighting key features and benefits for specific manufacturing applications
+<!-- - **Technical Demonstrations** - Conducted customized product demonstrations highlighting key features and benefits for specific manufacturing applications -->
 - **Proposal Generation** - Developed automated quoting system integrating technical specifications, pricing, and delivery timelines
 
 <!-- ### Customer Relationship Management
@@ -47,8 +48,9 @@ As an Inside Sales Engineer, developed and executed sales strategies for capital
 
 - **CRM Platforms** - Salesforce CRM for lead tracking and customer management
 - **Presentation Software** - Advanced PowerPoint and demo software for technical presentations
+- ** CAD Software** - Autodesk Inventor and AutoCAD for building conceptual design models and placing machines in customer cleanrooms
 
 
 ## Impact
 
-The implemented sales solutions resulted in significant business growth, with improved conversion rates and customer satisfaction. $11.5M in total contract value (TCV) across 7 major capital equipment projects in first six months of tenure.
+The implemented sales solutions resulted in significant business growth, with $11.5M in total contract value (TCV) across 7 major capital equipment projects in first six months of tenure.
