@@ -87,7 +87,7 @@ experience:
     org: AST
     start: 2025-07-07
     summary: |
-      * Directly supported $11.5M in total contract value (TCV) across 7 major capital equipment projects in first six months.
+      * Directly supported **$11.5M in total contract value (TCV)** across 7 major capital equipment projects in first six months.
       * Develop comprehensive technical proposals and compliance matrices for capital equipment sales and SCRs.
       * Meticulously map customer URS to system capabilities to verify cGMP compliance.
       * Participate in on-site customer visits and pre-sales technical reviews as a subject matter expert.
@@ -100,10 +100,10 @@ experience:
     end: 2024-03-16
     summary: |
       * Collaborated with across-functional research group on privacy-preserving techniques for anomaly detection and fraud detection systems
-      * Contributed to the development of a federated learning pipeline that achieved AUPRC>0.94 across multiple rounds of the PETs Prize Challenge
+      * Contributed to the development of a federated learning pipeline that achieved **AUPRC > 0.94** across multiple rounds of the PETs Prize Challenge
       * Participated in system performance testing, feature engineering, and model evaluation in secure ML environments
       * Co-authored a peer-reviewed paper published in Proceedings on Privacy Enhancing Technologies, 2024
-      * Presentedresults to anaudienceoftechnical and non-technical stakeholders, effectively communicating complex privacy-preserving ML concepts and financial fraud detection capabilities
+      * Presented results to an audience of technical and non-technical stakeholders, effectively communicating complex privacy-preserving ML concepts and financial fraud detection capabilities
     
   - role: Mechanical Engineer
     org: Bech Engineering
@@ -158,13 +158,13 @@ awards:
 
 languages:
   - name: English
-    level: 10
+    level: 5
     label: Native
   - name: Swedish
-    level: 4
+    level: 2
     label: Learning
   - name: Spanish
-    level: 2
+    level: 1
     label: Learning
 
 
