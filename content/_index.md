@@ -104,8 +104,7 @@ sections:
               icon: cube
               icon_pack: fas
             - name: AutoDesk Inventor
-              icon: drafting-compass
-              icon_pack: fas
+              icon: 
         - name: Frontend
           items:
             - name: HTML
