@@ -101,7 +101,7 @@ sections:
         - name: CAD
           items:
             - name: SolidWorks
-              icon: uploads/solidworks
+              icon: uploads/solidworks.png 
             - name: AutoDesk Inventor
               icon: devicon/autodesk-inventor 
         - name: Backend
