@@ -104,14 +104,18 @@ sections:
               icon: 'icons/custom/solidworks'
               icon_pack: custom
             - name: AutoDesk Inventor
-              icon: 'icons/custom/inventor'
-              icon_pack: custom 
+              icon: 'icons/custom/inventor'  
+              icon_pack: custom
+        - name: Frontend
+          items:
+            - name: HTML
+              icon: devicon/html
         - name: Backend
           items:
             - name: Node.js
               icon: devicon/nodejs
             - name: SQL
-              icon: devicon/sql
+              icon: devicon/mysql
         - name: DevOps
           items:
             - name: Docker
