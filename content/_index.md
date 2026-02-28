@@ -101,10 +101,10 @@ sections:
         - name: CAD
           items:
             - name: SolidWorks
-              icon: 'solidworks'
+              icon: 'icons/custom/solidworks'
               icon_pack: custom
             - name: AutoDesk Inventor
-              icon: 'inventor'
+              icon: 'icons/custom/inventor'
               icon_pack: custom 
         - name: Backend
           items:
