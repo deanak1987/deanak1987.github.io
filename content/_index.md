@@ -101,15 +101,15 @@ sections:
         - name: CAD
           items:
             - name: SolidWorks
-              icon: 'icons/custom/solidworks'
+              icon: icons/custom/solidworks
               icon_pack: custom
             - name: AutoDesk Inventor
-              icon: 'icons/custom/inventor'  
+              icon: icons/custom/inventor
               icon_pack: custom
         - name: Frontend
           items:
             - name: HTML
-              icon: devicon/html
+              icon: devicon/html5
         - name: Backend
           items:
             - name: Node.js
