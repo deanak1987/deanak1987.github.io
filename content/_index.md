@@ -101,7 +101,8 @@ sections:
         - name: CAD
           items:
             - name: SolidWorks
-              icon: icons/solidworks.svg
+              icon: solidworks
+              icon_pack: custom
             - name: AutoDesk Inventor
               icon: icons/inventor.svg
         - name: Frontend
