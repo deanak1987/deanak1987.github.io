@@ -102,8 +102,10 @@ sections:
           items:
             - name: SolidWorks
               icon: 'solidworks'
+              icon_pack: custom
             - name: AutoDesk Inventor
-              icon: 'inventor' 
+              icon: 'inventor'
+              icon_pack: custom 
         - name: Backend
           items:
             - name: Node.js
