@@ -101,10 +101,10 @@ sections:
         - name: CAD
           items:
             - name: SolidWorks
-              icon: solidworks
+              icon: /workspaces/deanak1987.github.io/assets/media/icons/custom/solidworks.svg
               icon_pack: custom
             - name: AutoDesk Inventor
-              icon: inventor
+              icon: /workspaces/deanak1987.github.io/assets/media/icons/custom/inventor.svg
               icon_pack: custom
         - name: Frontend
           items:
