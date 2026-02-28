@@ -114,7 +114,7 @@ The experience of moving from concept through analysis to physical prototype man
 
 *For additional project details, see the complete project reports and timesheet documentation.*
 
-{{% staticref "uploads/ME416-ClassReport.pdf" "newtab" %}}View Full Engineering Design Report (PDF){{% /staticref %}}
+[View Full Engineering Design Class Report (PDF)](/uploads/ME416-ClassReport.pdf)
 
-{{% staticref "uploads/ME416-DrPittsReport.pdf" "newtab" %}}View Full Engineering Design Report (PDF){{% /staticref %}}
+[View Full Engineering Design ProfessorReport (PDF)](/uploads/ME416-Dr.PittsReport.pdf)
 
