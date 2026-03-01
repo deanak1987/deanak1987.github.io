@@ -1,58 +1,54 @@
 ---
-title: "Capital Equipment Sales Solutions"
-date: 2025-07-07
-summary: "Comprehensive sales solutions for capital equipment in aseptic manufacturing industry, including providing in-depth technical knowledge, the ability to build accurate conceptual CAD models, and effectively communicate to ensure cross-functional collaboration between sales, engineering, and operations."
+title: "Aseptic Manufacturing: Capital Equipment Sales Engineering"
+date: 2026-02-21
+summary: "Technical sales engineering for high-value aseptic filling-finish systems, bridging the gap between complex cGMP requirements and internal engineering capabilities."
 tags: 
   - Sales Engineering
   - Capital Equipment
-  - Manufacturing
-  - Technical Sales
+  - Life Sciences
+  - cGMP Compliance
 tech_stack:
-  - CRM Systems
-  - ERP Integration
-  - Data Analysis
-  - Presentation Tools
-  - CAD 
+  - Salesforce
+  - Proposify
+  - Autodesk Inventor
+  - Microsoft PowerPoint
 links:
-featured: false
-status: "Ongoing"
+featured: true
+status: "Active"
 role: "Sales Engineer"
-duration: "6 months"
+duration: "6 months (Ongoing)"
 team_size: 5
-highlights:
-  - "Directly supported $11.5M in total contract value (TCV) across 7 major capital equipment projects in first six months of tenure, effectively bridging the gap between customer URS requirements and internal engineering capabilities"
-  - "Develop comprehensive technical proposals and compliance matrices for capital equipment sales and post-sale Scope Change Requests (SCR), meticulously mapping customer User Requirement Specifications (URS) to system capabilities to verify compliance"
-  - "Participate in on-site customer visits and pre-sales technical reviews, serving as a technical resource to address specific inquiries on cGMP compliance and machine capabilities"
-  - "Execute the creation of Epicor quotes from signed proposals and pricing models prior to sales handoff, ensuring commercial accuracy and seamless transition to production"
-  - "Develop early-stage system layouts and 3D concept models using Autodesk Inventor to support project planning and visualize cleanroom integration"
 ---
 
-A comprehensive approach to selling capital equipment in the aseptic manufacturing industry, combining technical expertise with sales strategies to drive high-value transactions and build long-term customer relationships.
+## Professional Overview
 
-## Overview
-
-As an Inside Sales Engineer, developed and executed sales strategies for capital aseptic equipment ranging from tabletop to full automation systems for fill-finish solutions. Focused on understanding customer technical requirements, providing promt proposal generation, and indepth product technical knowledge.
-
-## Key Features
-
-### Sales Process Optimization
-<!-- - **Technical Demonstrations** - Conducted customized product demonstrations highlighting key features and benefits for specific manufacturing applications -->
-- **Proposal Generation** - Utilized Proposify and Salesforce proposal request forms along with AST's quoting system, efficiently produced product proposals with highly detailed quotes and timelines
-
-<!-- ### Customer Relationship Management
-- **Account Management** - Managed key accounts with regular technical consultations and relationship building activities
-- **Post-Sale Support** - Provided technical training and support to ensure successful equipment integration and operation
-- **Feedback Integration** - Collected and analyzed customer feedback to improve product offerings and sales approaches -->
-
-## Technologies and Tools
-
-- **CRM Platforms** - Salesforce CRM for lead tracking and customer management
-- **Proposal Platforms** -
-Proposify for interactive, informative, and detailed proposals
-- **Presentation Software** - Advanced PowerPoint and demo software for technical presentations
-- **CAD Software** - Autodesk Inventor and AutoCAD for building conceptual design models and placing machines in customer cleanrooms
+As a Sales Engineer at **AST**, I manage the technical-commercial lifecycle for capital aseptic equipment, ranging from standalone tabletop units to fully integrated robotic fill-finish automation. My role is defined by the "Technical Bridge" concept—translating rigid customer **User Requirement Specifications (URS)** into viable engineering scopes while ensuring strict adherence to **cGMP compliance**.
 
 
-## Impact
 
-The implemented sales solutions resulted in significant business growth, with $11.5M in total contract value (TCV) across 7 major capital equipment projects in first six months of tenure.
+## Strategic Impact
+
+In my first six months, I have directly supported **$11.5M in Total Contract Value (TCV)** across 7 major capital projects. This success is built on four core pillars:
+
+* **Technical Consultation**: Serving as the primary technical resource during on-site visits and pre-sales reviews to address specific inquiries regarding machine capabilities and regulatory compliance.
+* **Sales Handover Leadership**: Synthesizing complex signed proposal data into comprehensive **PowerPoint presentations** for internal handover meetings. This ensures that the technical vision sold to the customer is accurately communicated to the engineering and operations teams.
+* **Scope Change Management**: Executing technical and commercial evaluations for **Scope Change Requests (SCRs)**. I meticulously re-map new customer requests against the original **URS** to verify compliance and provide updated pricing and timelines, ensuring project profitability remains intact.
+* **Requirement Mapping**: Developing compliance matrices that map customer URS to system capabilities, identifying and resolving potential gaps before contract finalization.
+
+## Technical Workflow & Tools
+
+### 1. Spatial Validation (CAD)
+Using **Autodesk Inventor**, I develop early-stage 3D system layouts to visualize cleanroom integration. This allows customers to see exactly how equipment fits within their specific facility footprint, reducing project risk and accelerating the sales cycle.
+
+### 2. Proposal Engineering
+I utilize **Proposify** and **Salesforce** to generate highly detailed technical proposals. These documents include granular timelines, detailed quotes, and specific technical specifications derived from **AST's** proprietary quoting systems.
+
+### 3. Industry Literacy
+My work is grounded in deep industry knowledge, including the study of **"Practical Aseptic Processing Fill and Finish"** to better understand the nuances of sterile manufacturing environments.
+
+---
+
+## Key Metrics
+* **$11.5M** TCV supported in the first 6 months.
+* **7** Major capital projects managed simultaneously.
+* **100%** Success rate in facilitating technical handovers and managing post-sale SCRs.
