@@ -9,6 +9,7 @@ tags:
   - Medical Imaging
   - Multiple Instance Learning
   - Python
+  - featured
 tech_stack:
   - Python
   - PyTorch

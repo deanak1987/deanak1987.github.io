@@ -6,6 +6,7 @@ tags:
   - Distributed Systems
   - Python
   - Rust
+  - featured 
 tech_stack:
   - Python
   - Rust

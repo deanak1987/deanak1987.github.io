@@ -58,6 +58,8 @@ sections:
         folders:
           - projects
       buttons:
+        - name: Featured
+          tag: featured 
         - name: All
           tag: '*'
         - name: Machine Learning

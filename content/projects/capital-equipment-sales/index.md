@@ -7,6 +7,7 @@ tags:
   - Capital Equipment
   - Life Sciences
   - cGMP Compliance
+  - featured
 tech_stack:
   - Salesforce
   - Proposify
