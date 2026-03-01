@@ -37,7 +37,7 @@ As an Inside Sales Engineer, developed and executed sales strategies for capital
 
 ### Sales Process Optimization
 <!-- - **Technical Demonstrations** - Conducted customized product demonstrations highlighting key features and benefits for specific manufacturing applications -->
-- **Proposal Generation** - Developed automated quoting system integrating technical specifications, pricing, and delivery timelines
+- **Proposal Generation** - Utilized Proposify and Salesforce proposal request forms along with AST's quoting system, efficiently produced product proposals with highly detailed quotes and timelines
 
 <!-- ### Customer Relationship Management
 - **Account Management** - Managed key accounts with regular technical consultations and relationship building activities
@@ -47,6 +47,8 @@ As an Inside Sales Engineer, developed and executed sales strategies for capital
 ## Technologies and Tools
 
 - **CRM Platforms** - Salesforce CRM for lead tracking and customer management
+- **Proposal Platforms** -
+Proposify for interactive, informative, and detailed proposals
 - **Presentation Software** - Advanced PowerPoint and demo software for technical presentations
 - **CAD Software** - Autodesk Inventor and AutoCAD for building conceptual design models and placing machines in customer cleanrooms
 
