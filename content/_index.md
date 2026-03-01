@@ -104,7 +104,7 @@ sections:
               icon: cube
               icon_pack: fas
             - name: AutoDesk Inventor
-              icon: devicon/blueprint
+              icon: simple-icons/Autodesk
         - name: Frontend
           items:
             - name: HTML
