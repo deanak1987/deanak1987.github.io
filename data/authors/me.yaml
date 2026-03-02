@@ -47,9 +47,12 @@ education:
         - Machine Learning 
       
       Capstone project involved processing Whole Slide Images (WSI) for cancer prediction.
+
+      GPA: 3.84/4.0
+
     button:
       text: View WSI Project
-      url: /project/wsi-toolkit/
+      url: https://github.com/deanak1987/TCSS702_Capstone
       icon: brands/github
     
   - degree: Bachelor of Science in Mechanical Engineering
@@ -57,11 +60,13 @@ education:
     start: 2015-09-01
     end: 2017-05-15
     summary: |
-      Focus on machine design and electives inclding: 
+      Focus on machine design and electives including: 
         - Internal Combustion Engines
         - Intro toNuclear Engineering. 
       
       Capstone project involved designing efficient clearing plates for submillimeter wood chipper for ForestConcept.
+    
+    GPA: 3.79/4.0
     button:
       text: View Submillimeter Wood Chipper Clearing Plate Project
       url: 
@@ -81,6 +86,8 @@ education:
         - Calculus I - IV
         - Linear Algebra
         - Differential Equations
+
+      GPA: 3.74/4.0
 
 experience:
   - role: Sales Engineer
