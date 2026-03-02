@@ -106,8 +106,7 @@ sections:
               icon: cube
               icon_pack: fas
             - name: AutoDesk Inventor
-              icon: Autodesk
-              icon_pack: simple-icons 
+              icon: brands/autodesk
         - name: Frontend
           items:
             - name: HTML
