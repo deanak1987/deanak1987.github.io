@@ -1,3 +1,12 @@
+---
+title: "My Story"
+date: 2026-03-14
+type: landing  # This ensures it uses a clean, readable layout
+design:
+  spacing:
+    padding: ["20px", "0", "20px", "0"]
+---
+
 # My Story
 
 On March 15, 2010, I was 22 years old and riding as a passenger in a coworker's car when we lost control at 60 MPH on a 25 MPH back road, rolled, and hit a telephone pole hard enough to break it in two. I wasn't wearing a seatbelt. The accident left me with two breaks in my neck: a hairline fracture at C1 and a partial crushing at C5. I was airlifted to Harborview Medical Center in Seattle, where I spent weeks heavily sedated in the ICU working through a serious set of complications, including a tracheotomy and extended breathing difficulties. I eventually came to enough to be told what I'd been afraid to ask: I was a quadriplegic.
