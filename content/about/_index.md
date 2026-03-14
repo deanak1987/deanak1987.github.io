@@ -1,12 +1,12 @@
 ---
 title: "My Story"
+summary: "A personal look at the journey from a life-altering accident to a career in high-stakes Sales Engineering."
 date: 2026-03-14
-type: landing 
-header:
-  image: "featured.jpg"
-design:
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
+featured: true
+image:
+  filename: "featured.jpg"
+  focal_point: "Smart"
+  preview_only: false
 ---
 
 # My Story
