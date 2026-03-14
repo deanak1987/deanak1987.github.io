@@ -35,9 +35,6 @@ sections:
           icon: arrow-down
         - text: About Me
           url: "/about/"
-          icon: user-astronaut
-          icon_pack: fas
-    
         - text: Get In Touch
           url: "#contact"
           icon: envelope
