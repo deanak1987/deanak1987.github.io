@@ -1,7 +1,9 @@
 ---
 title: "My Story"
 date: 2026-03-14
-type: landing  # This ensures it uses a clean, readable layout
+type: landing 
+header:
+  image: "featured.jpg"
 design:
   spacing:
     padding: ["20px", "0", "20px", "0"]
