@@ -8,6 +8,7 @@ tags:
   - Performance
   - Autocross
   - DIY
+  - personal
 tech_stack:
   - Photography
   - Documentation
