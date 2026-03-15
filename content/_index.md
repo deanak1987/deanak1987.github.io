@@ -70,6 +70,8 @@ sections:
           tag: Sales Engineering
         - name: Mechanical Engineering
           tag: Mechanical Engineering
+        - name: Personal
+          tag: personal
       default_button_index: 0
       # Archive link auto-shown if more projects exist than 'count' above
       # archive:
@@ -102,6 +104,17 @@ sections:
               icon: devicon/rust
             - name: MATLAB
               icon: devicon/matlab
+        - name: ML/AI
+          items: 
+            - name PyTorch
+              icon: devicon/pytorch
+            - name: TensorFlow
+              icon: devicon/tensorflow
+            - name Flower Federated Learning
+              icon: ""
+            - name: Scikit Learn
+              icon: devicon/scikitlearn
+  
         - name: CAD
           items:
             - name: SolidWorks
