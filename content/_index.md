@@ -117,9 +117,9 @@ sections:
         - name: CAD
           items:
             - name: SolidWorks
-              icon: devicon/solidworks
+              icon: custom/solidworks
             - name: AutoDesk Inventor
-              icon: devicon/autocad
+              icon: custom/inventor
 
         - name: Frontend
           items:
