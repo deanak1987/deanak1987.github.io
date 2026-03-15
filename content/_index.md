@@ -104,7 +104,8 @@ sections:
               icon: devicon/rust
             - name: MATLAB
               icon: devicon/matlab
-        - name: ML/AI
+
+        - name: Machine Learning
           items: 
             - name PyTorch
               icon: devicon/pytorch
