@@ -111,15 +111,16 @@ sections:
             - name: TensorFlow
               icon: devicon/tensorflow
             - name: Flower Federated Learning
-              icon: ""
+              icon: fa/solid/fan
             - name: Scikit Learn
               icon: devicon/scikitlearn
         - name: CAD
           items:
             - name: SolidWorks
-              icon: ""
+              icon: fa/solid/cube
             - name: AutoDesk Inventor
-              icon: ""
+              icon: fa/solid/drafting-compass
+
         - name: Frontend
           items:
             - name: HTML
