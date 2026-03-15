@@ -104,10 +104,9 @@ sections:
               icon: devicon/rust
             - name: MATLAB
               icon: devicon/matlab
-
         - name: Machine Learning
           items: 
-            - name PyTorch
+            - name: PyTorch
               icon: devicon/pytorch
             - name: TensorFlow
               icon: devicon/tensorflow
@@ -115,14 +114,13 @@ sections:
               icon: ""
             - name: Scikit Learn
               icon: devicon/scikitlearn
-  
         - name: CAD
           items:
             - name: SolidWorks
-              icon: cube
+              icon: ""
               icon_pack: fas
             - name: AutoDesk Inventor
-              icon: brands/autodesk
+              icon: ""
         - name: Frontend
           items:
             - name: HTML
