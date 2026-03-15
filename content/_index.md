@@ -111,7 +111,7 @@ sections:
             - name: TensorFlow
               icon: devicon/tensorflow
             - name: Flower Federated Learning
-              icon: fa/solid/fan
+              icon: hero/sun
             - name: Scikit Learn
               icon: devicon/scikitlearn
         - name: CAD
