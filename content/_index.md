@@ -110,7 +110,7 @@ sections:
               icon: devicon/pytorch
             - name: TensorFlow
               icon: devicon/tensorflow
-            - name Flower Federated Learning
+            - name: Flower Federated Learning
               icon: ""
             - name: Scikit Learn
               icon: devicon/scikitlearn
@@ -118,7 +118,6 @@ sections:
           items:
             - name: SolidWorks
               icon: ""
-              icon_pack: fas
             - name: AutoDesk Inventor
               icon: ""
         - name: Frontend
