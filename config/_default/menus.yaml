@@ -18,3 +18,6 @@ main:
   - name: Contact
     url: /#contact
     weight: 50
+  - name: About
+    url: /about/
+    weight: 5
